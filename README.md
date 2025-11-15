@@ -11,12 +11,13 @@ Fitur Utama
 5. Desain Modern – Menggunakan Bootstrap 5 agar tampilan lebih rapi dan responsif.
 
 Struktur File
+
 sistem/
-│── index.php       → Menampilkan daftar kontak  
-│── tambah.php      → Form untuk menambahkan kontak  
-│── edit.php        → Form untuk mengedit kontak  
-│── hapus.php       → Menghapus kontak berdasarkan ID  
-│── README.md       → Dokumentasi proyek  
+── index.php       → Menampilkan daftar kontak  
+── tambah.php      → Form untuk menambahkan kontak  
+── edit.php        → Form untuk mengedit kontak  
+── hapus.php       → Menghapus kontak berdasarkan ID  
+── README.md       → Dokumentasi proyek  
 
 Teknologi yang Digunakan
 1. PHP 7/8
